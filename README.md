@@ -40,9 +40,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:
+### Name: MOHAMMAD SHAHIL
 
-### Register Number:
+### Register Number: 212223240044
 
 ```python
 class Model(nn.Module):
@@ -53,16 +53,13 @@ class Model(nn.Module):
 
 
 # Initialize the Model, Loss Function, and Optimizer
-
 ```
 
 ### Dataset Information
 Include screenshot of the generated data
 
 ### OUTPUT
-Training Loss Vs Iteration Plot
-Best Fit line plot
-Include your plot here
+Training Loss Vs Iteration Plot Best Fit line plot Include your plot here
 
 ### New Sample Data Prediction
 Include your sample input and output here
